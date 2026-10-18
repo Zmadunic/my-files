@@ -1,0 +1,6 @@
+{
+  "name": "AppHaven Marketplace",
+  "description": "A modern, private-admin app and game marketplace with real resumable uploads, secure owner dashboard, category discovery, and instant downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
